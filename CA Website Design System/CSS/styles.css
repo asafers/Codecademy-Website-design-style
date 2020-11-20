@@ -1,0 +1,124 @@
+body {
+    Font-Family: 'Cabin', Sans-Serif;
+    Font-Size: 16px;
+    background-color: #5062AA;
+    margin: 0 10%;
+    line-height: 30px;
+}
+
+.header {
+    color: #F1F3F8;
+    letter-spacing: 1px;
+}
+
+.container {
+    padding: 15px;
+    margin: 15px auto;
+    border: 2px solid #FFDE57;
+    background-color: #F1F3F8; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+h1 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 24px;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.color-panel {
+    padding: 30px;
+    margin: 20px 10px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid black;
+    width: 32%;
+}
+
+.King-Blue {
+    background-color: #5062AA;
+    color: #F1F3F8;
+}
+
+.Black {
+    background-color: black;
+    color: #F1F3F8;
+}
+
+.Gentle-silver {
+    background-color: #F1F3F8;
+
+}
+
+.Programmer-Yellow {
+    background-color: #FFDE57;
+}
+
+.color-label p {
+    display: block;
+    text-align: center;
+}
+
+.color-hex p {
+    display: block;
+    text-align: center;
+}
+
+.font-container {
+    display: inline-block;
+    margin: 20px 10px;
+}
+
+.roboto-condensed {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.cabin {
+    font-family: "Cabin", sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.button {
+    padding: 15px 32px;
+    color: #F1F3F8;
+    background-color: black;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+}
+
+.button a {
+    color: white;
+    font-weight: bold;
+}
+
+.button a:hover {
+    text-decoration: underline;
+}
